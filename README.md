@@ -23,7 +23,7 @@
 - 📱 Mobile apps with **React Native**, **Kotlin** and **Java**
 - 🤖 Building **AI-integrated** applications
 - 🔌 Exploring **IoT** and **Embedded Systems**
-- 🌐 Full-stack web development with **React**, **Node** and **MongoDB**
+- 🌐 Full-stack web development with **React**, **Laravel**, **Node** and **MongoDB**
 - 🎯 Looking to work on AI-connected and embedded/IoT products
 
 ---
@@ -39,12 +39,12 @@
 Built mobile apps with React Native, Kotlin and Java.
 
 #### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,nodejs,express,php,laravel&perline=11" />
 
 #### 🗄️ Databases & Backend
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,firebase&perline=9" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=9" />
 
 #### 🤖 AI & Computer Vision
 <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-B388FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=2A1B4D" />
@@ -57,8 +57,8 @@ Built mobile apps with React Native, Kotlin and Java.
 <img src="https://img.shields.io/badge/ESP32-IoT%20Boards-B388FF?style=for-the-badge&logo=espressif&logoColor=white&labelColor=2A1B4D" />
 <img src="https://img.shields.io/badge/Arduino-Microcontrollers-C77DFF?style=for-the-badge&logo=arduino&logoColor=white&labelColor=2A1B4D" />
 
-#### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=9" />
+#### 🧰 Tools & IDEs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,pycharm&perline=9" />
 
 ---
 
