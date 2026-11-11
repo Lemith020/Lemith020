@@ -46,9 +46,13 @@ Built mobile apps with React Native, Kotlin and Java.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=9" />
 
-#### 🤖 AI & Computer Vision
-<img src="https://skillicons.dev/icons?i=opencv,py,numpy,ollama&perline=9" /> <img src="https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/docs/images/mediapipe_small.png" width="48" height="48" alt="MediaPipe" />
-
+##### 🤖 AI & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,py&perline=9" height="48" />
+  <img src="https://cdn.simpleicons.org/numpy/FF8C1A" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/mediapipe/FF8C1A" height="48" alt="MediaPipe" />
+  <img src="https://cdn.simpleicons.org/ollama/FF8C1A" height="48" alt="Ollama" />
+</p>
 #### 🔌 Embedded & IoT
 <img src="https://skillicons.dev/icons?i=c,py,arduino&perline=9" />
 
