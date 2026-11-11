@@ -21,7 +21,7 @@
 > while studying Software Engineering at University of Kelaniya.
 
 - 📱 Mobile apps with **React Native**, **Kotlin** and **Java**
-- 🤖 Building **AI-integrated** applications
+- 🤖 Building **AI-integrated** applications with **OpenCV**, **MediaPipe** and **NumPy**
 - 🔌 Exploring **IoT** and **Embedded Systems**
 - 🌐 Full-stack web development with **React**, **Laravel**, **Node** and **MongoDB**
 - 🎯 Looking to work on AI-connected and embedded/IoT products
@@ -49,7 +49,9 @@ Built mobile apps with React Native, Kotlin and Java.
 #### 🤖 AI & Computer Vision
 <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-FF8C1A?style=for-the-badge&logo=ollama&logoColor=white&labelColor=4A1C00" />
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-FFB347?style=for-the-badge&logo=opencv&logoColor=white&labelColor=4A1C00" />
-<img src="https://img.shields.io/badge/Python-AI%20Scripting-FF6A00?style=for-the-badge&logo=python&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/MediaPipe-Hand%20%26%20Pose%20Tracking-FF6A00?style=for-the-badge&logo=google&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-FF8C1A?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/Python-AI%20Scripting-FFB347?style=for-the-badge&logo=python&logoColor=white&labelColor=4A1C00" />
 
 #### 🔌 Embedded & IoT
 <img src="https://skillicons.dev/icons?i=c,py,arduino&perline=9" />
