@@ -46,13 +46,13 @@ Built mobile apps with React Native, Kotlin and Java.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=9" />
 
-##### 🤖 AI & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,py&perline=9" height="48" />
-  <img src="https://cdn.simpleicons.org/numpy/FF8C1A" height="48" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/mediapipe/FF8C1A" height="48" alt="MediaPipe" />
-  <img src="https://cdn.simpleicons.org/ollama/FF8C1A" height="48" alt="Ollama" />
-</p>
+#### 🤖 AI & Computer Vision
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-FF8C1A?style=for-the-badge&logo=ollama&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-FFB347?style=for-the-badge&logo=opencv&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/MediaPipe-Hand%20%26%20Pose%20Tracking-FF6A00?style=for-the-badge&logo=google&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-FF8C1A?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4A1C00" />
+<img src="https://img.shields.io/badge/Python-AI%20Scripting-FFB347?style=for-the-badge&logo=python&logoColor=white&labelColor=4A1C00" />
+
 #### 🔌 Embedded & IoT
 <img src="https://skillicons.dev/icons?i=c,py,arduino&perline=9" />
 
